@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **finofranklin@gmail.com**
 
-- ⚡ Fun fact **I wish to become a heart surgeon💔**
+- ⚡ Fun fact **Im not a good player also i dont watch the game but i love to play football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fino franklin john bosco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fino franklin john bosco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fino franklin john bosco](https://www.linkedin.com/in/fino-franklin-john-bosco-9bb565215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fino franklin john bosco" height="30" width="40" /></a>
 <a href="https://instagram.com/zapsphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zapsphere" height="30" width="40" /></a>
 </p>
 
