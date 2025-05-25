@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-chi-seven.vercel.app/](https://portfolio-site-chi-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nextfino.netlify.app/)
 
 - 📫 How to reach me **finofranklin@gmail.com**
 
