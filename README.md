@@ -124,14 +124,11 @@ echo "Welcome to Fino's environment. Intrusion attempts will be logged. 🛡️"
 ---
 
 <div align="center">
-
 ## `> THREAT INTEL — GITHUB STATS`
-
+ 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItsDarker&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDarker&theme=dark&background=0d1117&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
+<img width="49%" src="https://streak-stats.demolab.com?user=ItsDarker&theme=dark&background=0d1117&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDarker&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff" />
-
 </div>
 
 ---
@@ -163,7 +160,7 @@ echo "Welcome to Fino's environment. Intrusion attempts will be logged. 🛡️"
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  Establishing encrypted connection...                   │
-│  Protocol: TLS 1.3 ✅                                  │
+│  Protocol: TLS 1.3 ✅                                   │
 │  Handshake: Complete ✅                                 │
 │  Status: READY TO COLLABORATE 🛡️                        │
 └─────────────────────────────────────────────────────────┘
@@ -174,9 +171,6 @@ echo "Welcome to Fino's environment. Intrusion attempts will be logged. 🛡️"
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕_Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117)](https://www.buymeacoffee.com/zap)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0d1117)](https://ko-fi.com/zap)
 
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ItsDarker&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
